@@ -1,0 +1,6 @@
+{
+  "name": "GreenTree Worksheets",
+  "description": "GreenTree Arboriculture digital worksheet and OCR manager for field work orders, estimates, commercial invoices, tree hazard assessments, PHC treatment logs, and CRM/DMS syncing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

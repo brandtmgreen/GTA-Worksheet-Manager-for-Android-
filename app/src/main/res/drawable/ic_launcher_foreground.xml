@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Document Card Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,26 L64,26 L74,36 L74,82 C74,84.2 72.2,86 70,86 L34,86 C31.8,86 30,84.2 30,82 L30,30 C30,27.8 31.8,26 34,26 Z" />
+    <!-- Document Fold Corner -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M64,26 L64,36 L74,36 Z" />
+    <!-- Tree / Foliage Emblem on Document -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M52,38 L42,50 L47,50 L40,60 L49,60 L49,66 L55,66 L55,60 L64,60 L57,50 L62,50 Z" />
+    <!-- Golden OCR Scan Line / Laser -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M24,53 L84,53 L84,57 L24,57 Z" />
+    <!-- Checkmark Badge in Gold -->
+    <path
+        android:fillColor="#FF8F00"
+        android:pathData="M66,74 A6,6 0 1,1 66,62 A6,6 0 1,1 66,74 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64.5,69 L62,66.5 L63,65.5 L64.5,67 L68,63.5 L69,64.5 Z" />
+</vector>
